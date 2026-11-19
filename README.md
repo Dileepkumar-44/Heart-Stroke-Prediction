@@ -16,8 +16,8 @@ Demonstrate how data science can support early health risk assessment.
 
 # 🛠️ Technologies & Tools Used
 
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Environment: Google Colab / Jupyter Notebook
-Machine Learning: Classification Algorithms
-Version Control: Git and GitHub
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Environment: Google Colab / Jupyter Notebook
+- Machine Learning: Classification Algorithms
+- Version Control: Git and GitHub
