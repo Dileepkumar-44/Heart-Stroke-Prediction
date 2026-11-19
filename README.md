@@ -13,3 +13,11 @@ Analyze important health and lifestyle factors associated with stroke risk.
 Apply machine learning algorithms for classification.
 Evaluate model performance using appropriate evaluation metrics.
 Demonstrate how data science can support early health risk assessment.
+
+# 🛠️ Technologies & Tools Used
+
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Environment: Google Colab / Jupyter Notebook
+Machine Learning: Classification Algorithms
+Version Control: Git and GitHub
