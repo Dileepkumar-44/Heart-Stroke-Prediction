@@ -21,3 +21,14 @@ Demonstrate how data science can support early health risk assessment.
 - Environment: Google Colab / Jupyter Notebook
 - Machine Learning: Classification Algorithms
 - Version Control: Git and GitHub
+
+# ⚙️ Project Workflow
+
+1) Data Collection: Load the stroke prediction dataset.
+2) Data Preprocessing: Handle missing values, duplicate records, and categorical variables.
+3)Exploratory Data Analysis (EDA): Analyze patterns, distributions, and relationships between features.
+Feature Selection: Identify relevant features that contribute to stroke prediction.
+Model Building: Train machine learning classification models.
+Model Evaluation: Evaluate performance using accuracy, precision, recall, F1-score, and confusion matrix.
+Prediction: Predict potential stroke risk based on input features.
+
