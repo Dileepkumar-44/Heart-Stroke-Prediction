@@ -30,5 +30,5 @@ Demonstrate how data science can support early health risk assessment.
 4) Feature Selection: Identify relevant features that contribute to stroke prediction.
 5) Model Building: Train machine learning classification models.
 6) Model Evaluation: Evaluate performance using accuracy, precision, recall, F1-score, and confusion matrix.
-7) Prediction: Predict potential stroke risk based on input features.
+7) Prediction: Predict potential stroke risk based on the input features.
 
