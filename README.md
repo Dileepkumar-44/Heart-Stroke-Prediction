@@ -6,6 +6,15 @@ The Heart Stroke Risk Prediction project is a Machine Learning-based application
 
 The project applies data preprocessing, exploratory data analysis, feature selection, and machine learning algorithms to build a predictive model.
 
+# 📂 Repository Structure
+
+Heart-Stroke-Prediction/
+│
+├── Heart_Stroke_Prediction.ipynb
+├── healthcare-dataset-stroke-data.csv
+├── README.md
+└── requirements.txt
+
 # 🎯 Objectives
 
 Predict the likelihood of stroke based on patient health information.
