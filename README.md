@@ -8,12 +8,14 @@ The project applies data preprocessing, exploratory data analysis, feature selec
 
 # 📂 Repository Structure
 
+```text
 Heart-Stroke-Prediction/
 │
 ├── Heart_Stroke_Prediction.ipynb
 ├── healthcare-dataset-stroke-data.csv
 ├── README.md
 └── requirements.txt
+```
 
 # 🎯 Objectives
 
