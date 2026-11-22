@@ -47,9 +47,6 @@ Demonstrate how data science can support early health risk assessment.
 
 Practical implementation of machine learning algorithms.
 Data cleaning and preprocessing techniques.
-
 Exploratory Data Analysis and data visualization.
-
 Feature selection and model evaluation.
-
 Understanding classification problems in healthcare datasets.
