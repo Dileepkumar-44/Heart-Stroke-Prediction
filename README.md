@@ -43,3 +43,13 @@ Demonstrate how data science can support early health risk assessment.
 6) Model Evaluation: Evaluate performance using accuracy, precision, recall, F1-score, and confusion matrix.
 7) Prediction: Predict potential stroke risk based on the input features.
 
+# 💡 Key Learnings
+
+Practical implementation of machine learning algorithms.
+Data cleaning and preprocessing techniques.
+
+Exploratory Data Analysis and data visualization.
+
+Feature selection and model evaluation.
+
+Understanding classification problems in healthcare datasets.
